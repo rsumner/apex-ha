@@ -11,6 +11,7 @@ SWITCHES = {
     "dos": {"icon": "mdi:test-tube"},
     "virtual": {"icon": "mdi:monitor-account"},
     "iotaPump|Sicce|Syncra": {"icon" : "mdi:pump"},
+    "cor|20": {"icon" : "mdi:pump" },
     "Feed" :  {"icon": "mdi:shaker"},
     "gph" : {"icon": "mdi:waves-arrow-right"},
     "vortech" : {"icon": "mdi:pump"},
